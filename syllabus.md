@@ -2,10 +2,10 @@
 
 "Front-end" is an industry term that refers to the focus on HTML, CSS and JavaScript, which differentiates this course from the formal programming courses. Topics include Information Architecture, visual design, use of client libraries (mostly JS), and asset management strategies; we will also cover Content Management Systems and introduce web databases using PHP and MySQL.
 
-- CRN: **nnnnn**
+- CRN: **52177**
 - Course: **CSC 174**
 - Credits: **4.0**
-- Lecture/Lab Schedule: **DOW and DOW, nn:nn xM to nn:nn xM**
+- Lecture/Lab Schedule: **Mondays and Wednesdays, 10:25 to 11:40 AM**
 - Building: **Gavett Hall**
 - Room: **208**
 
@@ -16,8 +16,7 @@
 
 ### Office Hours
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc174.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor and other students will answer as quickly as possible.
-
-  **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, DOW and DOW at nn:nn to nn:nn xM.
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Monday, Wednesday, and Friday between 1:30 and 2:30 PM.
 
 ## Grading
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
@@ -42,8 +41,8 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 | Activity                                                     | Weight of the final grade |
 | ------------------------------------------------------------ | ------------------------- |
 | **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                   |
-| **Midterm Practical (project)**<br>There is one project (basically, a big assignment) near the middle of the semester which tests students' abilities at that point in the semester. | **15%**                   |
-| **Assignments**<br>There are assignments at various times in the semester the discretion of the instructor.  Each assignment counts equally toward the total of 55%<br><br>**Final Assignment**<br>There is one assignment offered at the end of the semester that allows students to increase their grade by doing an extra assignment. If the student chooses to do it, it will count toward their Assignment grade, i.e., included in the 55% calculation | **55%**                   |
+| **Assignments**<br>There are team and individual assignments at various times in the semester the discretion of the instructor.  Each assignment counts equally toward the total of 55% | **40%**                   |
+| **Midterm and Final Practical (projects)**<br/>There are two practical assignments (basically, big projects) near the middle and at the end of the semester which tests students' abilities to apply what they've learned in the course. | **30%**                   |
 
 ## Assignments and In-class Exercises
 

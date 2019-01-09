@@ -7,10 +7,10 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current topic
-  - 
+  - Re-introduction to the industry
 
 - Current assignments you should be working on
-  - 
+  - Lab 0: Introduction and Prep
 
 <hr>
 
