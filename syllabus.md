@@ -40,9 +40,9 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 
 | Activity                                                     | Weight of the final grade |
 | ------------------------------------------------------------ | ------------------------- |
-| **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                   |
-| **Assignments**<br>There are team and individual assignments at various times in the semester the discretion of the instructor.  Each assignment counts equally toward the total of 55% | **40%**                   |
-| **Midterm and Final Practical (projects)**<br/>There are two practical assignments (basically, big projects) near the middle and at the end of the semester which tests students' abilities to apply what they've learned in the course. | **30%**                   |
+| **Participation** (in-class exercises)<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                   |
+| **Assignments**<br>There are team and individual assignments at various times in the semester the discretion of the instructor.  Each assignment counts equally toward the total of 40% | **40%**                   |
+| **Midterm and Final Practical (projects)**<br/>There are two practical assignments (basically, big projects) near the middle and at the end of the semester which tests students' abilities to apply what they've learned in the course.  Both are 15% toward the total of 30%. | **30%**                   |
 
 ## Assignments and In-class Exercises
 
