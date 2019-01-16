@@ -57,14 +57,14 @@ On the day when an in-class exercise is assigned, students must complete them in
 
 ### Assignments
 
-Assignments (previously referred to as "labs") are made available via [Slack](#communication) during the lectures and each is given a due date.  Assignments and can be completed in the dedicated lab time (in the classroom) or independently on the student's own Internet-connected computer (Mac or PC).  
+Assignments (previously referred to as "labs") are made available via **Slack** during the lectures and each is given a due date.  Assignments and can be completed in the dedicated lab time (in the classroom) or independently on the student's own Internet-connected computer (Mac or PC).  
 
 ### Technical Help
 
 There are three ways students can get help on assignments.
 
 - From the TAs during dedicated work time in the lecture/lab classroom
-- During the Professor's virtual office hours in [Slack](#communication)
+- During the Professor's virtual office hours in **Slack**
 
 
 ### Due Dates
