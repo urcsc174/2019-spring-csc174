@@ -10,7 +10,7 @@ Advanced Front-end Web Design and Development
   - **CSC 170 Refresher**
 
 - Current assignments you should be working on
-  - [Lab 1: Initial Personal Website](lab01-initial-personal-website/instructions.md)
+  - [Assignment 1: Initial Personal Website](assignment01-initial-personal-website/instructions.md)
 
 <hr>
 

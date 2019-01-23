@@ -1,5 +1,5 @@
-# In-class Lab 1: Initial Personal Website
-*Due: Wednesday, January 23, 2019 (same day)*
+# <s>In-class Lab</s> Assignment 1: Initial Personal Website
+*Due: Monday, January 28 (updated)*
 
 The goal of this assignment is to simply apply a lot of the basic skills you learned in CSC 170. 
 
@@ -44,5 +44,5 @@ Technical requirements include the following:
 
 ## Submit the Assignment
 
-To get credit for your work, submit a link to your website in Blackboard, in the assignment: **Lab 1: Initial Personal Website**
+To get credit for your work, submit a link to your website in Blackboard, in the assignment: **Assignment 1: Initial Personal Website**
 
