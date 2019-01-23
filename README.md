@@ -2,20 +2,20 @@
 Advanced Front-end Web Design and Development
 
 - [Syllabus](syllabus.md)
-- [Schedule](schedule.md) 
+- [Schedule](schedule.md) &lArr; here be: slides, demos, assignments, and related links from lectures and labs
 
 <hr>
 
 - Current topic
-  - **Introduction to CSC 174**<br>[Team Roles and Projects (PDF)](01-introduction-to-csc174/team-roles-and-projects.pdf)
+  - **CSC 170 Refresher**
 
 - Current assignments you should be working on
-  - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md) (due: Wednesday, January 23)
+  - Lab 1: Initial Personal Website
 
 <hr>
 
 - Previous topics
-  - 
+  - **Introduction to CSC 174**
 
 - Previous assignments
-  - 
+  - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md) (due: Wednesday, January 23)
