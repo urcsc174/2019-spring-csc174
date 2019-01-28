@@ -7,15 +7,18 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current topic
-  - **CSC 170 Refresher**
 
+  - **Web Solution Stacks**
 - Current assignments you should be working on
-  - [Assignment 1: Initial Personal Website](assignment01-initial-personal-website/instructions.md)
+  - In-class Lab 1: MAMP and WAMP on localhost (Monday, January 28)
 
 <hr>
 
 - Previous topics
-  - **Introduction to CSC 174**
 
+  - **CSC 170 Refresher**
+  - **Introduction to CSC 174**
 - Previous assignments
+
+  - [Assignment 1: Initial Personal Website](assignment01-initial-personal-website/instructions.md) (due: Monday, January 28)
   - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md) (due: Wednesday, January 23)
