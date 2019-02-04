@@ -38,7 +38,11 @@ FTP Password: [ask the prof]
 To get credit for your work:
 
 - ONE of you must submit a link to your website in Blackboard, in the assignment: **Assignment 2: "Flash" Website**
-- Along with your link write in the **Write Submission** area (*not* the comments box):<br>- **Your city-team name**<br>- A list of **everyone's name** in your team (including your own), and...<br>- Next to everyone's name **indicate everyone's role on the team** (IA, designer, or coder)
+- Along with your link write in the **Write Submission** area (*not* the comments box):
+  - **Your city-team name**
+  - A list of **everyone's name** in your team (including your own), and...
+  - Next to everyone's name **indicate everyone's role on the team** (IA, designer, or coder)
+  - A **link to your team's repository** (which should be set to public)
 
 # Suggested Workflow
 
