@@ -8,21 +8,23 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Working as a Team**
+  - **Information Architecture** and Markdown
 - Current assignments you should be working on
-  - [Assignment 2: "Flash Website"](assignment02-flash-website/instructions.md)
+  - [In-class Lab 3: Information Architecture and Markdown](lab03-markdown-and-ia/instructions.md)
 
 <hr>
 
 - Previous topics
 
+  - **Working as a Team**
   - **Version Control Software**
   - **Web Solution Stacks**
   - **CSC 170 Refresher**
   - **Introduction to CSC 174**
 - Previous assignments
 
+  - [Assignment 2: "Flash Website"](assignment02-flash-website/instructions.md)
   - In-class Lab 2: GitHub setup
-  - In-class Lab 1: MAMP and WAMP on localhost (Monday, January 28)
-  - [Assignment 1: Initial Personal Website](assignment01-initial-personal-website/instructions.md) (due: Monday, January 28)
-  - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md) (due: Wednesday, January 23)
+  - In-class Lab 1: MAMP and WAMP on localhost
+  - [Assignment 1: Initial Personal Website](assignment01-initial-personal-website/instructions.md)
+  - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md)
