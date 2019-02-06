@@ -28,3 +28,4 @@ Advanced Front-end Web Design and Development
   - In-class Lab 1: MAMP and WAMP on localhost
   - [Assignment 1: Initial Personal Website](assignment01-initial-personal-website/instructions.md)
   - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md)
+  - 
