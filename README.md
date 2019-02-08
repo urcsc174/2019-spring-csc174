@@ -11,7 +11,7 @@ Advanced Front-end Web Design and Development
   - **Information Architecture** and Markdown
 - Current assignments you should be working on
 
-  - [Assignment 3: Smash Website](assignment03-smash-website) (due: Monday, February 11)
+  - [Assignment 3: Smash Website](assignment03-smash-website/instructions.md) (due: Monday, February 11)
 
 <hr>
 
