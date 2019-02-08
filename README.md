@@ -10,7 +10,8 @@ Advanced Front-end Web Design and Development
 
   - **Information Architecture** and Markdown
 - Current assignments you should be working on
-  - [In-class Lab 3: Information Architecture and Markdown](lab03-markdown-and-ia/instructions.md)
+
+  - [Assignment 3: Smash Website](assignment03-smash-website) (due: Monday, February 11)
 
 <hr>
 
@@ -21,11 +22,13 @@ Advanced Front-end Web Design and Development
   - **Web Solution Stacks**
   - **CSC 170 Refresher**
   - **Introduction to CSC 174**
-- Previous assignments
+- Previous in-class labs (graded for "participation")
 
-  - [Assignment 2: "Flash Website"](assignment02-flash-website/instructions.md)
+  - [In-class Lab 3: Information Architecture and Markdown](lab03-markdown-and-ia/instructions.md)
   - In-class Lab 2: GitHub setup
   - In-class Lab 1: MAMP and WAMP on localhost
+- Previous assignments (more important, grade-wise)
+
+  - [Assignment 2: "Flash Website"](assignment02-flash-website/instructions.md)
   - [Assignment 1: Initial Personal Website](assignment01-initial-personal-website/instructions.md)
   - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md)
-  - 
