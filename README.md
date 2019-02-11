@@ -8,10 +8,10 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - 
+  - **Forking a Repository**
 - Current assignments you should be working on
 
-  - 
+  - [Assignment 4: Information Architecture](assignment04-information-architecture/instructions.md) 
 
 <hr>
 
