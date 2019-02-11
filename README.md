@@ -8,15 +8,16 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Information Architecture** and Markdown
+  - 
 - Current assignments you should be working on
 
-  - [Assignment 3: Smash Website](assignment03-smash-website/instructions.md) (due: Monday, February 11)
+  - 
 
 <hr>
 
 - Previous topics
 
+  - **Information Architecture** and Markdown
   - **Working as a Team**
   - **Version Control Software**
   - **Web Solution Stacks**
@@ -29,6 +30,7 @@ Advanced Front-end Web Design and Development
   - In-class Lab 1: MAMP and WAMP on localhost
 - Previous assignments (more important, grade-wise)
 
+  - [Assignment 3: Smash Website](assignment03-smash-website/instructions.md) 
   - [Assignment 2: "Flash Website"](assignment02-flash-website/instructions.md)
   - [Assignment 1: Initial Personal Website](assignment01-initial-personal-website/instructions.md)
   - [Assignment 0: Content Prep](assignment00-content-prep/instructions.md)
