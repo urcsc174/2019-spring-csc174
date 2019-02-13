@@ -8,15 +8,17 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Forking a Repository**
+  - **Principles of Page Design, part 1**
 - Current assignments you should be working on
 
-  - [Assignment 4: Information Architecture](assignment04-information-architecture/instructions.md) 
+  - In-class Lab 4: CRAP Principles (in Blackboard)
+  - [Assignment 4: Information Architecture](assignment04-information-architecture/instructions.md) (due: Monday, February 18)
 
 <hr>
 
 - Previous topics
 
+  - **Forking a Repository**
   - **Information Architecture** and Markdown
   - **Working as a Team**
   - **Version Control Software**
