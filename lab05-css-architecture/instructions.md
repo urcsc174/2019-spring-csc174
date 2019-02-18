@@ -1,6 +1,6 @@
 # In-class Lab 5: CSS Architecture
 
-**Due: Monday, February 18, 2019 (today)* * 
+*Due: Monday, February 18, 2019 (today)* 
 
 The goal of this exercise is to practice arranging CSS into a useful structure (architecture).
 
