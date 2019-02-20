@@ -8,15 +8,16 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **CSS Architecture**
+  - **Principles of Page Design, part 2**
 - Current assignments you should be working on
 
-  - [In-class Lab 5: CSS Architecture](lab05-css-architecture/instructions.md)
+  - Assignment 5: Odd Student Out (coming soon)
 
 <hr>
 
 - Previous topics
 
+  - **CSS Architecture**
   - **Principles of Page Design, part 1**
   - **Forking a Repository**
   - **Information Architecture** and Markdown
@@ -27,6 +28,7 @@ Advanced Front-end Web Design and Development
   - **Introduction to CSC 174**
 - Previous in-class labs (graded for "participation")
 
+  - [In-class Lab 5: CSS Architecture](lab05-css-architecture/instructions.md)
   - In-class Lab 4: CRAP Principles (in Blackboard)
   - [In-class Lab 3: Information Architecture and Markdown](lab03-markdown-and-ia/instructions.md)
   - In-class Lab 2: GitHub setup
