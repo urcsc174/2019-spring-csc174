@@ -11,7 +11,7 @@ Advanced Front-end Web Design and Development
   - **Principles of Page Design, part 2**
 - Current assignments you should be working on
 
-  - Assignment 5: Odd Student Out (coming soon)
+  - [Assignment 5: Odd Student Out](assignment05-odd-student-out/instructions.md) (due: Wednesday, February 27)
 
 <hr>
 
