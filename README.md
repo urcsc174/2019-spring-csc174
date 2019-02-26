@@ -8,7 +8,7 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Principles of Page Design, part 2**
+  - **Readability and Typography**
 - Current assignments you should be working on
 
   - [Assignment 5: Odd Student Out](assignment05-odd-student-out/instructions.md) (due: Wednesday, February 27)
@@ -17,6 +17,7 @@ Advanced Front-end Web Design and Development
 
 - Previous topics
 
+  - **Principles of Page Design, part 2**
   - **CSS Architecture**
   - **Principles of Page Design, part 1**
   - **Forking a Repository**
