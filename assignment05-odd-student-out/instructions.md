@@ -1,6 +1,8 @@
 # Assignment 5: Odd Student Out
 
-*Due: Wednesday, February 27, 2019 (one week)* 
+<s>*Due: Wednesday, February 27, 2019 (one week)*</s>
+
+*Due: Friday, March 1, 2019 (updated)* 
 
 The goal of this assignment is to build a completely new, multi-page website that uses everything new we've learned so far in CSC 174, plus all the best practices and standards from CSC 170.
 

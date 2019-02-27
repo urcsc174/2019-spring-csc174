@@ -1,6 +1,8 @@
 # In-class Lab 6: Readability and Typography
 
-*Due: Wednesday, February 27, 2019 (today)* 
+<s>*Due: Wednesday, February 27, 2019 (today)*</s>
+
+*Due: Friday, March 1, 2019 (updated)* 
 
 In this exercise you will take existing content and demonstrate your ability to increase readability and legibility by applying the design principles covered in class. 
 
