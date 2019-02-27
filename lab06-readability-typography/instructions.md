@@ -6,16 +6,16 @@ In this exercise you will take existing content and demonstrate your ability to 
 
 This is an **individual in-class lab**.  You will *not* be working as a team on this one.
 
-## Step 1: Copy an Assignment 2
+## Step 1: Copy an Assignment
 
-- [ ] EVERYONE in GitHub **fork** a city-team's Assignment 2 website ([see here for links to the Assignment 2 repositories](https://docs.google.com/spreadsheets/d/17nncaY3FWkgq2HEqK6IWAsyNsav34Jo4e-Vj1pwoXEQ/edit#gid=0))
-  - [ ] Pick one that has a relatively decent layout but **readability factors that you think you can improve** (it's okay to select your own Assignment 2 website)
+- [ ] EVERYONE in GitHub **fork** a city-team's Assignment 2, 3, or 4 website ([see here for links to the assignment repositories](https://docs.google.com/spreadsheets/d/17nncaY3FWkgq2HEqK6IWAsyNsav34Jo4e-Vj1pwoXEQ/edit#gid=0))
+  - [ ] Pick one that has a relatively decent layout but **readability factors that you think you can improve** (it's okay to select one of your own websites)
   - [ ] You do not have to add anyone as collaborator; you'll be working on this assignment alone
   - [ ] Sync your repository to your localhost
 - [ ] Pick *one* of the sub-pages in the website and rip-out (delete) the other subpages and the index file
 - [ ] Rename the one remaining webpage to **index.php**
 - [ ] In the index.php file, remove contents (inner HTML) from the **nav** element from the webpage (leave the nav element there)
-- [ ] Inside the nav element, place a **link to the original website** (the Assignment 2)
+- [ ] Inside the nav element, place a **link to the original website** (the Assignment 2, 3, or 4)
   - Do not use the URL as the link text!
 - [ ] Add a **readme.md** file to the repository
 
