@@ -8,17 +8,17 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Midterm Practical Review**
+  - **Templates, Libraries, Frameworks**
 - Current assignments you should be working on
 
-  - [In-class Lab 6: Readability and Typography](lab06-readability-typography/instructions.md) (due: <s>Wednesday, February 27</s> Friday, March 1)
-  - [Assignment 5: Odd Student Out](assignment05-odd-student-out/instructions.md) (due: <s>Wednesday, February 27</s> Friday, March 1)
+  - In-class Lab 7: CSS Frameworks
   - [Midterm Project](project-midterm/instructions.md) (due: Monday, March 18)
 
 <hr>
 
 - Previous topics
 
+  - **Midterm Project Review**
   - **Readability and Typography**
   - **Principles of Page Design, part 2**
   - **CSS Architecture**
@@ -32,6 +32,7 @@ Advanced Front-end Web Design and Development
   - **Introduction to CSC 174**
 - Previous in-class labs (graded for "participation")
 
+  - [In-class Lab 6: Readability and Typography](lab06-readability-typography/instructions.md)
   - [In-class Lab 5: CSS Architecture](lab05-css-architecture/instructions.md)
   - In-class Lab 4: CRAP Principles (in Blackboard)
   - [In-class Lab 3: Information Architecture and Markdown](lab03-markdown-and-ia/instructions.md)
@@ -39,6 +40,7 @@ Advanced Front-end Web Design and Development
   - In-class Lab 1: MAMP and WAMP on localhost
 - Previous assignments (more important, grade-wise)
 
+  - [Assignment 5: Odd Student Out](assignment05-odd-student-out/instructions.md) 
   - [Assignment 4: Information Architecture](assignment04-information-architecture/instructions.md)
   - [Assignment 3: Smash Website](assignment03-smash-website/instructions.md) 
   - [Assignment 2: "Flash Website"](assignment02-flash-website/instructions.md)
