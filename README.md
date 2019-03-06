@@ -8,16 +8,16 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Templates, Libraries, Frameworks**
+  - 
 - Current assignments you should be working on
 
-  - In-class Lab 7: CSS Frameworks
   - [Midterm Project](project-midterm/instructions.md) (due: Monday, March 18)
 
 <hr>
 
 - Previous topics
 
+  - **Templates, Libraries, Frameworks**
   - **Midterm Project Review**
   - **Readability and Typography**
   - **Principles of Page Design, part 2**
@@ -32,6 +32,7 @@ Advanced Front-end Web Design and Development
   - **Introduction to CSC 174**
 - Previous in-class labs (graded for "participation")
 
+  - In-class Lab 7: CSS Frameworks
   - [In-class Lab 6: Readability and Typography](lab06-readability-typography/instructions.md)
   - [In-class Lab 5: CSS Architecture](lab05-css-architecture/instructions.md)
   - In-class Lab 4: CRAP Principles (in Blackboard)
