@@ -25,7 +25,7 @@ From a very high level, you need to: create a **small website** (at least two pa
 
 - Pick a topic - any - and build a small, informational website
   - [ ] The **primary goal** of the website is to just *present information* about the topic, i.e., get the user to read more about it
-  - [ ] The **secondary goal**, the goal of the website is to get users to *sign-up for a newsletter* 
+  - [ ] The **secondary goal** of the website is to get users to *sign-up for a newsletter* 
     - Note: you need to *entice* users to sign-up
     - Also note: the newsletter sign-up is NOT the primary goal of the website!
 
