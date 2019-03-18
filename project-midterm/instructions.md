@@ -1,6 +1,6 @@
 # CSC 174 Midterm Project
 
-*Due: Monday, March 18, 2018*
+*Due: <s>Monday</s> Wednesday, March <s>18</s> 20, 2018*
 
 The point of this take-home exam is to work independently and demonstrate your understanding of the concepts and technologies we've covered in CSC 174 so far.
 

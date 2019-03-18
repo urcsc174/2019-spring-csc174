@@ -8,10 +8,10 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - 
+  - **Midterm Project Review**
 - Current assignments you should be working on
 
-  - [Midterm Project](project-midterm/instructions.md) (due: Monday, March 18)
+  - [Midterm Project](project-midterm/instructions.md) (due: Monday, March <s>18</s> 20)
 
 <hr>
 
