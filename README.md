@@ -8,15 +8,16 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Midterm Project Review**
+  - **Introduction to PHP and MySQL**
 - Current assignments you should be working on
 
-  - [Midterm Project](project-midterm/instructions.md) (due: Monday, March <s>18</s> 20)
+  - In-class exercise: Simple Database Interaction on localhost ([mysql-scripts.zip](16-introduction-to-php-and-mysql/mysql-scripts.zip))
 
 <hr>
 
 - Previous topics
 
+  - **Midterm Project Review**
   - **Templates, Libraries, Frameworks**
   - **Midterm Project Review**
   - **Readability and Typography**
@@ -41,6 +42,7 @@ Advanced Front-end Web Design and Development
   - In-class Lab 1: MAMP and WAMP on localhost
 - Previous assignments (more important, grade-wise)
 
+  - [Midterm Project](project-midterm/instructions.md) (due: Monday, March <s>18</s> 20)
   - [Assignment 5: Odd Student Out](assignment05-odd-student-out/instructions.md) 
   - [Assignment 4: Information Architecture](assignment04-information-architecture/instructions.md)
   - [Assignment 3: Smash Website](assignment03-smash-website/instructions.md) 
