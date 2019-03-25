@@ -12,7 +12,6 @@ Advanced Front-end Web Design and Development
 - Current assignments you should be working on
 
   - Continued in-class exercise using starter files: [mysql-scripts2.zip](17-php-and-mysql2/mysql-scripts2.zip)
-
 <hr>
 
 - Previous topics
