@@ -8,15 +8,16 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Introduction to PHP and MySQL**
+  - **PHP and MySQL, Part 2**
 - Current assignments you should be working on
 
-  - In-class exercise: Simple Database Interaction on localhost ([mysql-scripts.zip](16-introduction-to-php-and-mysql/mysql-scripts.zip))
+  - Continued in-class exercise using starter files: [mysql-scripts2.zip](17-php-and-mysql2/mysql-scripts2.zip)
 
 <hr>
 
 - Previous topics
 
+  - **Introduction to PHP and MySQL**
   - **Midterm Project Review**
   - **Templates, Libraries, Frameworks**
   - **Midterm Project Review**
@@ -33,6 +34,7 @@ Advanced Front-end Web Design and Development
   - **Introduction to CSC 174**
 - Previous in-class labs (graded for "participation")
 
+  - In-class exercise: Simple Database Interaction on localhost ([mysql-scripts.zip](16-introduction-to-php-and-mysql/mysql-scripts.zip))
   - In-class Lab 7: CSS Frameworks
   - [In-class Lab 6: Readability and Typography](lab06-readability-typography/instructions.md)
   - [In-class Lab 5: CSS Architecture](lab05-css-architecture/instructions.md)
