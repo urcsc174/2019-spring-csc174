@@ -11,7 +11,7 @@ Advanced Front-end Web Design and Development
   - **PHP and MySQL, Part 2**
 - Current assignments you should be working on
 
-  - Continued in-class exercise using starter files: [mysql-scripts2.zip](17-php-and-mysql2/mysql-scripts2.zip)
+  - [Assignment 6: Simple Form and Database](assignment06-simple-form-and-database/instructions.md) (due: Monday, April 1)
 <hr>
 
 - Previous topics
@@ -33,6 +33,7 @@ Advanced Front-end Web Design and Development
   - **Introduction to CSC 174**
 - Previous in-class labs (graded for "participation")
 
+  - Continued in-class exercise using starter files: [mysql-scripts2.zip](17-php-and-mysql2/mysql-scripts2.zip)
   - In-class exercise: Simple Database Interaction on localhost ([mysql-scripts.zip](16-introduction-to-php-and-mysql/mysql-scripts.zip))
   - In-class Lab 7: CSS Frameworks
   - [In-class Lab 6: Readability and Typography](lab06-readability-typography/instructions.md)
