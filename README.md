@@ -8,15 +8,17 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **PHP and MySQL, Part 2**
+  - **The Four Database functions**
 - Current assignments you should be working on
 
+  - In-class exercise using starter files: [four-functions.zip](18-four-functions/four-functions.zip)
   - [Assignment 6: Simple Form and Database](assignment06-simple-form-and-database/instructions.md) (due: Monday, April 1)
 <hr>
 
 - Previous topics
 
-  - **Introduction to PHP and MySQL**
+  - **PHP and MySQL, Part 2**
+  - **Introduction to PHP and MySQL, Part 1**
   - **Midterm Project Review**
   - **Templates, Libraries, Frameworks**
   - **Midterm Project Review**
