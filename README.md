@@ -11,8 +11,8 @@ Advanced Front-end Web Design and Development
   - **The Four Database functions**
 - Current assignments you should be working on
 
-  - In-class exercise using starter files: [four-functions.zip](18-four-functions/four-functions.zip)
-  - [Assignment 6: Simple Form and Database](assignment06-simple-form-and-database/instructions.md) (due: Monday, April 1)
+  - [In-class Lab 7: Remote Databases](lab07-remote-database/instructions.md) and In-class exercise using starter files: [four-functions.zip](18-four-functions/four-functions.zip)
+  - [Assignment 6: Simple Form and Database](assignment06-simple-form-and-database/instructions.md) (due: Wednesday, April 3)
 <hr>
 
 - Previous topics
