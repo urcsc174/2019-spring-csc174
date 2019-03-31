@@ -133,7 +133,7 @@ Go back to your localhost files for Assignment 6
 - [ ] Open your **connection file** in your code editor ("config.php" ...? or whatever you called it)
 - [ ] Update the database login information
   - change the server information from **localhost** to **66.147.242.186**
-  - change the user, password, and database information to:<br>database user: **urcscon3_** ...followed by the database user name you created in Bluehost<br>user password: ...whatever you used in Bluehost for your database user<br>database name: **urcscon3_** ...followed by the database name you created in Bluehost 
+  - change the user, password, and database information to:<br>database user: **urcscon3** ...followed by the database user name you created in Bluehost<br>user password: ...whatever you used in Bluehost for your database user<br>database name: **urcscon3** ...followed by the database name you created in Bluehost 
 
 - [ ] Save and close the connection file and re-sync it with your GitHub repository
   - Then inform the other developers in your city-team that you've changed the connection information and they need to re-sync with the repo to get it
