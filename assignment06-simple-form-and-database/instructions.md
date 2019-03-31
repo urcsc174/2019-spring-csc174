@@ -1,6 +1,6 @@
 # Assignment 6: Simple Form and Database
 
-*Due: Wednesday, April 3, 2019* 
+*Due: Wednesday, April 3, 2019 (updated* 
 
 The goal of this assignment is to take an existing website with a simple, HTML form and power it with PHP so it writes to a MySQL database.
 
@@ -71,7 +71,7 @@ And special attention, i.e. a lot of points, will be given to:
 In parallel with the IA and Designer working on the website, the coder will be graded on the functionality of the simple HTML form and it's ability to write to a MySQL database.
 
 - [ ] On the class webserver (not a localhost), the **Technical Coder** must create a dedicated table to capture input from the website's HTML form
-  - Note: the website needs to use a "remote database" - the professor will present instructions regarding how to set up a remote database and use it in the next CSC 174 class
+  - Note: the website needs to use a "remote database" - <s>the professor will present instructions regarding how to set up a remote database and use it in the next CSC 174 class.</s> See the instructions in the **Installation** section, below.
 - [ ] The **Technical Coder** must add the appropriate PHP code to the website to write HTML form data to the dedicated table in the database on the remote server
   - All industry standards and best practices as demonstrated in CSC 174 for using PHP to write to a MySQL database must be implemented
 
@@ -84,11 +84,74 @@ In addition to powering the website's HTML form to work with a MySQL database, t
 
 #### Installation
 
-The Technical Coder is responsible for the correct installation of the website *and* the remote database on the class web server
+The **Technical Coder** is responsible for the correct installation of the website on the class web server
 
 - [ ] The website must be installed on the BLUEHOST class web server in the folder named: **assignment06** (…which already exists); then create a folder with a name based on the team city that you're in.  
 - [ ] The website must use a database and table installed on the BLUEHOST class webserver.  
-  - Instructions on how to do that will be forthcoming
+  - <s>Instructions on how to do that will be forthcoming</s> See below...
+
+### Database Installation on the Production Web Server
+
+The **Technical Coder** is responsible for creating and using the remote database on the class web server
+
+#### Step 1: Login to Bluehost
+
+- [ ] Login to our CSC 174 account on Bluehost
+  - Refer to the instructions from *In-class Lab 7: Remote Databases*
+- [ ] Click the submenu: **database** to get to the **MySQL Databases** page
+
+#### Step 2: Create a new database
+
+- [ ] On the MySQL Database page, under the **Create a New Database** section, enter a database name based on your city-team's name
+  - Note: you can create a database name as long as you want, but when you create the user for the database (next step) it can only be seven characters long!  So truncate your database name to seven characters or less.  That way the database and user names can be the same.
+- [ ] **Create a new MySQL User** for your database
+  - Bluehost will limit you to seven characters
+  - Pick an easy password; security is not a concern for what we're doing in CSC 174
+- [ ] **Add the new User** to your new database
+  - Use the pull-down selectors to select your database and user, then click the green **Add** button
+- [ ] On the **MySQL Account Maintenance** page click the ALL PRIVILEDGES checkbox, then click the green **Make Changes** button
+
+After you've done this part of the process, go back to the cpanel in Bluehost and put this browser window (tab) aside for now.  You may need to come back here shortly.
+
+#### Step 3: Transfer the Database from your Localhost
+
+- [ ] In your LOCAL phpMyAdmin, **click on your database** that you created for Assignment 6 in the left-side bar to make sure you’re in that database
+- [ ] Click the **Export** tab above the main area, and then on the Exporting tables… page, click the Go button to create the an SQL file and save it somewhere.  You’ll need it soon.
+- [ ] Go back to the web browser tab with the **Bluehost cpanel**
+- [ ] In the Bluehost cpanel, scroll down to click the **phpMyAdmin** chicklet (or you’ll probably find a link to it along the left-side, under “frequently used features”
+- [ ] In Bluehost's phpMyAdmin, in the left-side bar, **click the name of the database** you created in Step 2 (above)
+- Click the **Import** tab in the top area
+- Click the **Choose File** button and select the SQL file you created above
+- Scroll down and click the **Go** button
+
+Hopefully, you’ll see a long list of green messages. If so, proceed to the next step.
+
+#### Step 4: Change the Connection Information
+
+Go back to your localhost files for Assignment 6
+
+- [ ] Open your **connection file** in your code editor ("config.php" ...? or whatever you called it)
+- [ ] Update the database login information
+  - change the server information from **localhost** to **66.147.242.186**
+  - change the user, password, and database information to:<br>database user: **urcscon3_** ...followed by the database user name you created in Bluehost<br>user password: ...whatever you used in Bluehost for your database user<br>database name: **urcscon3_** ...followed by the database name you created in Bluehost 
+
+- [ ] Save and close the connection file and re-sync it with your GitHub repository
+  - Then inform the other developers in your city-team that you've changed the connection information and they need to re-sync with the repo to get it
+  - Note: EVERYONE has to test their connection information to see if their current computer's IP is registered with Bluehost so they can use the new database remotely
+  - Direct your team members to the following instructions (below); EVERYONE needs to do STEP 5...
+
+#### Step 5: Test the Remote Connection to the Database
+
+Everyone in each city-team needs to test the web application (the HTML form) to see if it still works with the remote database (assuming it worked with your local database before)
+
+Because you're using local files that connect to a database on the Bluehost servers, Bluehost requires that you register your computer's IP number or Class C with them.
+
+Refer to the instructions from *In-class Lab 7: Remote Databases*, specifically steps 3 and 3a and make changes as follows:
+
+- [ ] After you get, unzip, and edit the **testmysql-remote.php** file, change the **database user**, **password**, and **database name** to the new database connection credentials (created by the Coder); then save and close the file
+- [ ] With the **testmysql-remote.php** file in your localhost (anywhere) run it in a web browser; depending on the results you get, you may need to do **Step 3a** in the *In-class Lab 7: Remote Databases* instructions
+
+The Coder needs to confirm that all the developers in the city-team are able to use the remote database.  If not, contact the professor for help using the #help channel in Slack.
 
 ### Web Server Credentials
 
@@ -100,6 +163,9 @@ FTP Port: 21
 FTP Username: assignment06@csc174.org
 FTP Password: [same as before - ask if you need to be reminded]
 ```
+
+- [ ] When installing the website on the web server, the **Technical Coder** needs to change the connection information for the database in the **config.php** file (or whatever you called it).  The database host needs to be changed *back to* **"localhost"**
+  - That sounds unintuitive - changing the hostname back to *localhost* - but the professor will explain in the next CSC 174 class
 
 ## Submit the Assignment
 
@@ -115,3 +181,4 @@ Note: even though you worked as a team, everyone will be graded as an individual
   - A link to the **repository**
 
   *NOTE: do not write this information (above) in the comments section in Blackboard.  Use the "Write Submission" area*
+
