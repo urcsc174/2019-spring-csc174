@@ -120,9 +120,9 @@ After you've done this part of the process, go back to the cpanel in Bluehost an
 - [ ] Go back to the web browser tab with the **Bluehost cpanel**
 - [ ] In the Bluehost cpanel, scroll down to click the **phpMyAdmin** chicklet (or you’ll probably find a link to it along the left-side, under “frequently used features”
 - [ ] In Bluehost's phpMyAdmin, in the left-side bar, **click the name of the database** you created in Step 2 (above)
-- Click the **Import** tab in the top area
-- Click the **Choose File** button and select the SQL file you created above
-- Scroll down and click the **Go** button
+- [ ] Click the **Import** tab in the top area
+- [ ] Click the **Choose File** button and select the SQL file you created above
+- [ ] Scroll down and click the **Go** button
 
 Hopefully, you’ll see a long list of green messages. If so, proceed to the next step.
 
