@@ -1,6 +1,6 @@
 # Assignment 6: Simple Form and Database
 
-*Due: Wednesday, April 3, 2019 (updated* 
+*Due: Wednesday, April 3, 2019 (updated)* 
 
 The goal of this assignment is to take an existing website with a simple, HTML form and power it with PHP so it writes to a MySQL database.
 
