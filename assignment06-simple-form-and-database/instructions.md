@@ -155,7 +155,7 @@ The Coder needs to confirm that all the developers in the city-team are able to 
 
 ### Web Server Credentials
 
-Each team will use the same FTP account. Be careful *not* to disturb other teams' files.
+The **Coder** on each team will use the same FTP account. Be careful *not* to disturb other teams' files.
 
 ```
 FTP Server (a.k.a. Hostname): ftp.csc174.org
