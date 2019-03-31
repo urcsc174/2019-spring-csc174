@@ -97,7 +97,7 @@ The **Technical Coder** is responsible for creating and using the remote databas
 #### Step 1: Login to Bluehost
 
 - [ ] Login to our CSC 174 account on Bluehost
-  - Refer to the instructions from *In-class Lab 7: Remote Databases*
+  - Refer to the instructions from *In-class Lab 7: Remote Databases* (<a href="https://docs.csc174.org/lab07-remote-database/instructions.html#step-2-login-to-bluehost" target="_blank">link here</a>)
 - [ ] Click the submenu: **database** to get to the **MySQL Databases** page
 
 #### Step 2: Create a new database
