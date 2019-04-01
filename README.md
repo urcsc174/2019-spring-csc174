@@ -8,7 +8,7 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **The Four Database functions**
+  - **Remote Databases**
 - Current assignments you should be working on
 
   - [In-class Lab 7: Remote Databases](lab07-remote-database/instructions.md) and In-class exercise using starter files: [four-functions.zip](18-four-functions/four-functions.zip)
@@ -17,6 +17,7 @@ Advanced Front-end Web Design and Development
 
 - Previous topics
 
+  - **The Four Database functions**
   - **PHP and MySQL, Part 2**
   - **Introduction to PHP and MySQL, Part 1**
   - **Midterm Project Review**
