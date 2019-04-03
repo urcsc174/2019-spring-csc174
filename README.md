@@ -8,15 +8,17 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Remote Databases**
+  - **Content Management Systems (CMSs)**
 - Current assignments you should be working on
 
+  - In-class Lab 8: WordPress on localhost
   - [In-class Lab 7: Remote Databases](lab07-remote-database/instructions.md) and In-class exercise using starter files: [four-functions.zip](18-four-functions/four-functions.zip)
   - [Assignment 6: Simple Form and Database](assignment06-simple-form-and-database/instructions.md) (due: Wednesday, April 3)
 <hr>
 
 - Previous topics
 
+  - **Remote Databases**
   - **The Four Database functions**
   - **PHP and MySQL, Part 2**
   - **Introduction to PHP and MySQL, Part 1**
