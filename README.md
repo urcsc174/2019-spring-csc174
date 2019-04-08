@@ -8,16 +8,15 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Content Management Systems (CMSs)**
+  - **Persistent State, part 1**
 - Current assignments you should be working on
 
-  - In-class Lab 8: WordPress on localhost
-  - [In-class Lab 7: Remote Databases](lab07-remote-database/instructions.md) and In-class exercise using starter files: [four-functions.zip](18-four-functions/four-functions.zip)
-  - [Assignment 6: Simple Form and Database](assignment06-simple-form-and-database/instructions.md) (due: Wednesday, April 3)
+  - Homework Lab 9 (coming soon)
 <hr>
 
 - Previous topics
 
+  - **Content Management Systems (CMSs)**
   - **Remote Databases**
   - **The Four Database functions**
   - **PHP and MySQL, Part 2**
@@ -38,6 +37,8 @@ Advanced Front-end Web Design and Development
   - **Introduction to CSC 174**
 - Previous in-class labs (graded for "participation")
 
+  - [In-class Lab 7: Remote Databases](lab07-remote-database/instructions.md) and In-class exercise using starter files: [four-functions.zip](18-four-functions/four-functions.zip)
+  - In-class Lab 8: WordPress on localhost
   - Continued in-class exercise using starter files: [mysql-scripts2.zip](17-php-and-mysql2/mysql-scripts2.zip)
   - In-class exercise: Simple Database Interaction on localhost ([mysql-scripts.zip](16-introduction-to-php-and-mysql/mysql-scripts.zip))
   - In-class Lab 7: CSS Frameworks
@@ -49,7 +50,8 @@ Advanced Front-end Web Design and Development
   - In-class Lab 1: MAMP and WAMP on localhost
 - Previous assignments (more important, grade-wise)
 
-  - [Midterm Project](project-midterm/instructions.md) (due: Monday, March <s>18</s> 20)
+  - [Assignment 6: Simple Form and Database](assignment06-simple-form-and-database/instructions.md) 
+  - [Midterm Project](project-midterm/instructions.md) 
   - [Assignment 5: Odd Student Out](assignment05-odd-student-out/instructions.md) 
   - [Assignment 4: Information Architecture](assignment04-information-architecture/instructions.md)
   - [Assignment 3: Smash Website](assignment03-smash-website/instructions.md) 
