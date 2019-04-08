@@ -45,7 +45,7 @@ urcscon3_lab09
 - [ ] Login to Bluehost: 
    - www.bluehost.com
    - Username: **csc174.org**
-   - Password: [**same Bluehost password as before** | check the #help channel in Slack]
+   - Password: [**same Bluehost password as before**, check the #help channel in Slack]
 - [ ] Go to the bluehost **cPanel**, and then into **phpMyAdmin**
 - [ ] Click on the database, **urcscon3_lab09**
 - [ ] Import the code from your edited **create-table.sql** file
