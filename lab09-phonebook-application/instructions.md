@@ -92,7 +92,7 @@ The bulk of this lab is to hack the code you've been given to work with the new 
 
 - Edit **index.php**
   - duplicate **lines 19** and **20** and edit the duplicates as needed
-  - duplicate **lines 31** and **32 **and edit the duplicates as needed
+  - duplicate **lines 31** and **32 ** and edit the duplicates as needed
 
 - Edit **new.php**:
   - duplicate and edit **lines 10** and **11**
