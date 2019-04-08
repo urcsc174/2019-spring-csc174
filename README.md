@@ -11,7 +11,7 @@ Advanced Front-end Web Design and Development
   - **Persistent State, part 1**
 - Current assignments you should be working on
 
-  - Homework Lab 9 (coming soon)
+  - [Lab 9: Phonebook Application](lab09-phonebook-application/instructions.md) (as homework, due Wednesday, April 10)
 <hr>
 
 - Previous topics
