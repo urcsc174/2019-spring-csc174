@@ -43,16 +43,14 @@ urcscon3_lab09
 
 - [ ] Save and close the **connect-db.php** file
 - [ ] Login to Bluehost: 
-   www.bluehost.com
-    	Username: **csc174.org**
-    	Password: [same Bluehost password as before | check the #help channel in Slack]
-
+   - www.bluehost.com
+   - Username: **csc174.org**
+   - Password: [**same Bluehost password as before** | check the #help channel in Slack]
 - [ ] Go to the bluehost **cPanel**, and then into **phpMyAdmin**
 - [ ] Click on the database, **urcscon3_lab09**
 - [ ] Import the code from your edited **create-table.sql** file
   - Use the SQL tab in phpMyAdmin, then copy & paste your edited SQL code there, then run the query (click the GO button)
   - After your table in the database is created successfully, you can close and then delete the **create-table.sql** file, but take note: remember the table name and the exact column names (phone and email) that have been created!
-
 - [ ] Open the phonebook application in a web browser on your localhost; you should see the database application.
   - If you see the empty table (just the table headings), then you're connected okay
   - If you get the "Connect Error (2002)" message, you need to re-register your computer with Bluehost.  (See [Step 3a in In-class Lab 7](https://docs.csc174.org/lab07-remote-database/instructions.html#step-3a-setup-remote-access-to-the-remote-database).)
