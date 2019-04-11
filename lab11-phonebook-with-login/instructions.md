@@ -108,14 +108,14 @@ Again, the goal of this assignment is to, in effect, merge your phonebook applic
 ### Password Protect the Webpages that Should be Protected
 
 - [ ] From the Lab 10 **index.php** file, copy-out the PHP block that sets and then checks the session variable (lines 1 - 10), and paste that PHP block at the top of phonebook2's **new.php**, **edit.php**, and **delete.php** files
-  - That'll keep those three files from every showing unless the user is logged-in
+  - That'll keep those three files from ever showing unless the user is logged-in
 - [ ] Edit the **logout.php** file - change the redirection (the header() command on line 12); instead of redirecting the user to **login.php**, change that to **index.php**
 
 ### Add "States" to the Webpages for Logged-in vs. Logged-out
 
 *Note: this is new in CSC 174.  I did not cover this technique in our last two classes on session variables.  But you've seen parts of this PHP code before.  This is the code that decides whether or not to do something based on whether or not the user is logged-in.*
 
-- [ ] Add a session start command to the top of both the the **index.php** file and the **renderform.php** file like this: `<?php session_start(); ?>`
+- [ ] Add a session start command to the top of both the the **index.php** file and the **renderform.php** file like this:<br> `<?php session_start(); ?>`
   - This will allow us to show or hide content in the phonebook2 application based on whether the user is signed-in or not
 - [ ] In the **index.php** file, add a *login* AND a *logout* link to the top-right of the webpage, just under the opening DIV with the *container* class, like this:
 
@@ -131,7 +131,7 @@ Again, the goal of this assignment is to, in effect, merge your phonebook applic
 
   - This snipped of code will show *either* the link to *login* or the link to *logout* based on the "state" of the session variable (actually, the existence of the session's global variable "username" being set or not)
 
-*NOTE; that snippet of code is shameful (using in-line styles, and a bastardized float used to position it).  Normally, you would be expected to write appropriate CSS in your external stylesheet, but this assignment is long enough.  Sad.*
+*NOTE: that snippet of code is shameful (using in-line styles, and a bastardized float used to position it).  Normally, you would be expected to write appropriate CSS in your external stylesheet, but this assignment is long enough.  Sad.*
 
 Using the same IF statement to check whether the session is active or not, you can disable other features of the **index.php** webpage where it makes sense.
 
