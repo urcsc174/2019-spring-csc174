@@ -92,9 +92,10 @@ Again, the goal of this assignment is to, in effect, merge your phonebook applic
   - You can use the **users.sql** script from Lab 10; just go into phpMyAdmin and click on the **phonebook2** database, then IMPORT (or use the SQL tab to copy and paste the script) to setup the **users** table
   - The goal is to have two tables in your **phonebook2** database: one for the phonebook records, and another for the user accounts.
 - [ ] Copy the **login.php** file, **register.php** file, and **styles.css** file from Lab 10 to your **phonebook2** folder
-- [ ] Edit the **login.php** and **register.php** files - notice that their first statement (line 3) refers to **config.php**.  Since the phonebook application uses a file named **connect-db.php** (instead of config.php) edit that line accordingly so the **connect-db.php** file is used
 
 **Note: part of merging applications is dealing with inconsistencies between them.** 
+
+- [ ] Edit the **login.php** and **register.php** files - notice that their first statement (line 3) refers to **config.php**.  Since the phonebook application uses a file named **connect-db.php** (instead of config.php) edit that line accordingly so the **connect-db.php** file is used
 
 - Open Lab 10's **config.php** file and phonebook2's **connect-db.php** file.  Notice that, even though they do effectively the same thing, they're coded differently.  
 - Generally that doesn't matter, but it just so happens that the Lab 10 connection file saves the database connection (in **config.php**) in a variable named **$link** (on line 9) and the phonebook2 connection file saves the database connection (in **connect-db.php**) in a variable named **$connection**.  
