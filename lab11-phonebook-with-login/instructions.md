@@ -53,14 +53,14 @@ Also note that this phonebook application only uses two files to display content
 ```
 
 - [ ] In both files, install a "container" in the BODY tags
-  - See here for Bootstrap instructions on using a container: https://getbootstrap.com/docs/4.3/layout/overview/
+  - See here for Bootstrap instructions on using a container: [https://getbootstrap.com/docs/4.3/layout/overview/](https://getbootstrap.com/docs/4.3/layout/overview/)
   - Suggestion: inside the BODY tags create the opening DIV with the container class directly above where the content starts (*below* the PHP block), and close the DIV directly above the closing BODY tags.
 
 - [ ] In both files, embellish the bare-bone content with some more HTML and text.  See the examples below as minimums.
 
 - [ ] In the **index.php** file, style the table by adding Bootstrap classes in the appropriate places
 
-  - See here: https://getbootstrap.com/docs/4.3/content/tables/ (feel free to do more styling than what's shown here)
+  - See here: [https://getbootstrap.com/docs/4.3/content/tables/](https://getbootstrap.com/docs/4.3/content/tables/) (feel free to do more styling than what's shown here)
     ![figure1](media\figure1.png)
 
 - [ ] In the **renderform.php** file, you need to style the form
@@ -75,7 +75,7 @@ Also note that this phonebook application only uses two files to display content
 
   Then, with the HTML in the FORM standardized you can start to style it by applying Bootstrap classes.
 
-  - [ ] Refer to the Bootstrap documentation for classes you can use to style the HTML FORM: https://getbootstrap.com/docs/4.3/components/forms/ (again, feel free to do more styling than what's shown here)
+  - [ ] Refer to the Bootstrap documentation for classes you can use to style the HTML FORM: [https://getbootstrap.com/docs/4.3/components/forms/](https://getbootstrap.com/docs/4.3/components/forms/) (again, feel free to do more styling than what's shown here)
   - [ ] Also, add more HTML content to make the webpage look a bit more normal/usable; here's an example with the bare minimum
     ![figure2](media\figure2.png)
 
