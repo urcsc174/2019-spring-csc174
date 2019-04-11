@@ -47,6 +47,7 @@ Also note that this phonebook application only uses two files to display content
 - Open **index.php** and **renderform.php** for editing
 
 - [ ] In both files, install Bootstrap using the Bootstrap CDN in the normal place where you link CSS files:
+
 ```html
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
 ```
