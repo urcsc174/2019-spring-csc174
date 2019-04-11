@@ -11,7 +11,7 @@ Advanced Front-end Web Design and Development
   - **Persistent State, part 2**
 - Current assignments you should be working on
 
-  - [In-class Lab 10: Login System](lab10-login-system/instructions.md)
+  - [In-class Lab 11: Phonebook Application with Login System](lab11-phonebook-with-login/instructions.md) (due: Monday, April 15)
 <hr>
 
 - Previous topics
@@ -38,6 +38,7 @@ Advanced Front-end Web Design and Development
   - **Introduction to CSC 174**
 - Previous in-class labs (graded for "participation")
 
+  - [In-class Lab 10: Login System](lab10-login-system/instructions.md)
   - [Lab 9: Phonebook Application](lab09-phonebook-application/instructions.md) 
   - [In-class Lab 7: Remote Databases](lab07-remote-database/instructions.md) and In-class exercise using starter files: [four-functions.zip](18-four-functions/four-functions.zip)
   - In-class Lab 8: WordPress on localhost
