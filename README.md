@@ -8,15 +8,15 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Editable HTML Tables**
+  - **Putting It All Together - User Survey Website**
 - Current assignments you should be working on
 
-  - [In-class Lab 11b: Phonebook Application with Login System](lab11b-phonebook-with-login/instructions.md) (due: Monday, April 15)
-  - [In-class Lab 12: Editable HTML Tables](lab12-editable-html-tables/instructions.md) (due: Monday, April 15)
+  - [Assignment 7: User Survey Website](assignment07-user-survey-website/instructions.md) 
 <hr>
 
 - Previous topics
 
+  - **Editable HTML Tables**
   - **Persistent State, part 2**
   - **Persistent State, part 1**
   - **Content Management Systems (CMSs)**
@@ -40,6 +40,8 @@ Advanced Front-end Web Design and Development
   - **Introduction to CSC 174**
 - Previous in-class labs (graded for "participation")
 
+  - [In-class Lab 12: Editable HTML Tables](lab12-editable-html-tables/instructions.md) 
+  - [In-class Lab 11b: Phonebook Application with Login System](lab11b-phonebook-with-login/instructions.md) 
   - [In-class Lab 11: Phonebook Application with Login System](lab11-phonebook-with-login/instructions.md) 
   - [In-class Lab 10: Login System](lab10-login-system/instructions.md)
   - [Lab 9: Phonebook Application](lab09-phonebook-application/instructions.md) 
