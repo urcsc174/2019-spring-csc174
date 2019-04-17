@@ -93,14 +93,15 @@ All standards that we've covered all semester long will be graded. For example:
 
 NOTE: 
 
-- [ ] For extra credit, the **Visual Designer** can create **"design language" files** - a set of wireframes and a "comp" (a marketing term for "comprehensive layout") 
+- [ ] For extra credit, the **Visual Designer** can create **"design language" files** - a set of wireframes and a comp ("comp" is a marketing term, short for "comprehensive layout") 
   - To receive the extra credit, the files must be **submitted in Blackboard** before the website is coded, *and* before Wednesday, April 24 (the halfway point of the assignment)
   - The type of files you submit in Blackboard can be **any type - PSDs, PDFs, JPGs, whatever** - however, if you use some really esoteric application that the professor can't open, he may contact you to regarding exporting your drawings to a more common format.
   - Entries will not be graded until after the website is completed because the wireframes and comp will be **compared to the actual website**; although the actual website does not have to be pixel-perfect compared to the submitted files, it does have to generally represent the intent as shown by the submitted files
+  - Also note, if you submit files to be graded, the professor may reply with feedback; if you do not implement the feedback, you will not get the extra points
   - Extra credit will be as much as **10 extra points** on top of the assignment grade for the Visual Designer *(I think Blackboard will allow you to get more than 100% so this could improve your overall grade for Visual Designer, but don't hold me to that)*
 - [ ] For extra credit, the **Technical Coder** can implement an **Editable HTML Table** solution for the "Admin Area".  If successful, the user (an administrator) should be able to effect all four database functions without leaving the one webpage
   - Extra credit will be as much as **10 extra points** on top of the assignment grade for the Technical Coder *(I think Blackboard will allow you to get more than 100% so this could improve your overall grade for Technical Coder, but don't hold me to that)*
-  - NOTE: whatever the Coder implements, the IA and Designer will also be graded on the placement and styles of all the elements, so be sure to communicate your plan and give the IA and Designer enough time to have you move components around (else they'll lose points for poor architecture or)
+  - NOTE: whatever the Coder implements, the IA and Designer will also be graded on the placement and styles of all the elements, so be sure to communicate your plan and give the IA and Designer enough time to have you move components around (else they'll lose points for poor architecture or design!)
 
 ### Web Server Credentials
 
