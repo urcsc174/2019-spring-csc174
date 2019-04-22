@@ -11,7 +11,7 @@ List of resources:
 - Articles about some of the more esoteric CSS selectors
   - [CSS Selector Reference (w3schools.com)](https://www.w3schools.com/cssref/css_selectors.asp)
   - [Meet the Pseudo Class Selectors (CSS Tricks article)](https://css-tricks.com/pseudo-class-selectors/)
-- [Specificity Overrides (one page PDF)](25-master-class/specificity-overrides.pdf)
+- [Specificity Overrides (one page PDF)](specificity-overrides.pdf)
   - Recipe on how to customize styles in a CSS Framework
 - CSS Backgrounds and Gradients
   - [CSS Patterns Gallery](https://leaverou.github.io/css3patterns/)
