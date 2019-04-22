@@ -8,7 +8,7 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Master Class**
+  - **Master Class** ([List of Resources (page)](25-master-class/resources.md))
 - Current assignments you should be working on
 
   - [Assignment 7: User Survey Website](assignment07-user-survey-website/instructions.md) 
