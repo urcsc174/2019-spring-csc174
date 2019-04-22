@@ -65,8 +65,8 @@ This is a **team assignment**. Although you are graded as individuals (IA, Desig
 
 *NOTE: there are many ways to accomplish the four functions.  You do not necessarily have to use AJAX, JSON or other advanced techniques we never covered in CSC 174.  You can do it "the old fashioned way" using four separate PHP scripts on four separate webpages ...it doesn't matter, so long as it works as part of the overall website.*
 
-- [ ] The admin area must be styled using **Bootstrap**
-  - You can use Bootstrap styles exclusively for the admin area but be advised: you still have to place key elements and controls in appropriate areas of each web page based on principles of page design and layout
+- [ ] The admin area must be styled using **Bootstrap** or another off-the-shelf CSS Framework
+  - You can use the framework styles exclusively for the admin area but be advised: you still have to place key elements and controls in appropriate areas of each web page based on principles of page design and layout
 
 
 ## Other Notes About the Assignment
@@ -87,11 +87,9 @@ All standards that we've covered all semester long will be graded. For example:
   - Good, clean, and valid code (within reason) that is optimized, and follows industry standards and best practices without error (that includes lack of error_log files on the server)
   - Everything works as expected
 
-*NOTE: use of a readme.md file is not required for this assignment, but it is suggested for team communications only. Use it however you want - for whatever you want - it's up to you.*
+*NOTE: use of a **readme.md** file is <u>not</u> required for this assignment, but it is suggested for team communications only. Use it however you want - for whatever you want - it's up to you.*
 
 ### Extra Credit
-
-NOTE: 
 
 - [ ] For extra credit, the **Visual Designer** can create **"design language" files** - a set of wireframes and a comp ("comp" is a marketing term, short for "comprehensive layout") 
   - To receive the extra credit, the files must be **submitted in Blackboard** before the website is coded, *and* before Wednesday, April 24 (the halfway point of the assignment)
