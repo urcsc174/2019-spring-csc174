@@ -8,7 +8,7 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Putting It All Together - User Survey Website**
+  - **Master Class**
 - Current assignments you should be working on
 
   - [Assignment 7: User Survey Website](assignment07-user-survey-website/instructions.md) 
@@ -16,6 +16,7 @@ Advanced Front-end Web Design and Development
 
 - Previous topics
 
+  - **Putting It All Together - User Survey Website**
   - **Editable HTML Tables**
   - **Persistent State, part 2**
   - **Persistent State, part 1**
