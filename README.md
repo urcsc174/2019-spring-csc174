@@ -8,14 +8,15 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Master Class** ([List of Resources (page)](25-master-class/resources.md))
+  - **Final Project (exam) Review**
 - Current assignments you should be working on
 
-  - [Assignment 7: User Survey Website](assignment07-user-survey-website/instructions.md) 
+  - [Final Project](project-final/instructions.md) (due: Friday, May 10 ...last day of exam week)
 <hr>
 
 - Previous topics
 
+  - **Master Class** ([List of Resources (page)](25-master-class/resources.md)
   - **Putting It All Together - User Survey Website**
   - **Editable HTML Tables**
   - **Persistent State, part 2**
@@ -59,6 +60,7 @@ Advanced Front-end Web Design and Development
   - In-class Lab 1: MAMP and WAMP on localhost
 - Previous assignments (more important, grade-wise)
 
+  - [Assignment 7: User Survey Website](assignment07-user-survey-website/instructions.md) 
   - [Assignment 6: Simple Form and Database](assignment06-simple-form-and-database/instructions.md) 
   - [Midterm Project](project-midterm/instructions.md) 
   - [Assignment 5: Odd Student Out](assignment05-odd-student-out/instructions.md) 
