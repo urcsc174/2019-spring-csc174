@@ -33,9 +33,10 @@ The professor will assign a domain (a topic) to you, and give you specific instr
 
 Note: as you gather content, keep in mind you may have to edit it to meet the requirements below.  It's okay if you take content from Wikipedia and manipulate it within reason.  As always, remember to cite your sources in a logical place in the content.
 
-- [ ] Within the domain assigned by the professor, you choose the **ontology** (the limits of the domain) and compile content: text and images you want to use
+- [ ] Within the domain, you choose the **ontology** (the limits of the domain) and compile content: text and images you want to use
     - At least four images (JPGs, PNGs, or GIFs only)
     - Text: at least 900 words
+    - Other media, as you see fit
 
 *Think ahead as you gather content.  You will need to "chunk" the content as described below.  Also, the images must relate to the content in some way.*
 
