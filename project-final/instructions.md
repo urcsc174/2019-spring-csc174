@@ -1,6 +1,6 @@
 # CSC 174  Final Project
 
-*Due: Friday, May 10, 2019 (last day of exam week)*
+*Due: Monday, May 13, 2019 (last day of exams)*
 
 The point of this take-home exam is to work independently and demonstrate your understanding of the concepts and technologies we've covered all semester in CSC 174.
 
@@ -25,8 +25,7 @@ From a very high level, you need to: create a **small website** that demonstrate
 
 The professor will assign a domain (a topic) to you, and give you specific instructions regarding the primary and secondary goals of the website.
 
-- [ ] Check Slack.  The professor will send you a domain (topic) that is unique to everyone else in CSC 174.
-- [ ] You are required to use the domain the professor provides to build your architecture.  
+- [ ] The professor will confirm your choice of a domain (topic) that is unique to everyone else in CSC 174; you are required to use the domain the professor approved to build your architecture.  
 
 *Note: the intent of the is assignment is to have you gather content from multiple sources and "architect" it - not just scrape content from a single source, like Wikipedia.  You can use Wikipedia, but not exclusively.*
 
