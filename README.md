@@ -11,7 +11,7 @@ Advanced Front-end Web Design and Development
   - **Final Project (exam) Review**
 - Current assignments you should be working on
 
-  - [Final Project](project-final/instructions.md) (due: Friday, May 10 ...last day of exam week)
+  - [Final Project](project-final/instructions.md) (due: Monday, May 13 ...last day of exam week)
 <hr>
 
 - Previous topics
